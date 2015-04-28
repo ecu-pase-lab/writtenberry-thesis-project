@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C1ECEE0B-62D6-4046-A15E-40DB8282A554</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GestDefLS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2478649AFF19B1C8930BCD0C9889319E08324D72</key>
+		<string>github.com:ecu-sle-lab/writtenberry-thesis-project.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GestDefLS.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2478649AFF19B1C8930BCD0C9889319E08324D72</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:ecu-sle-lab/writtenberry-thesis-project.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2478649AFF19B1C8930BCD0C9889319E08324D72</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2478649AFF19B1C8930BCD0C9889319E08324D72</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GestDefLS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
